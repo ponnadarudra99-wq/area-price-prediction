@@ -9,11 +9,6 @@ This project predicts property prices based on area using Machine Learning.
 - Pandas, NumPy
 - Scikit-learn
 
-## 📂 Project Files
-- cost_area_prediction.ipynb
-- house_price.csv
-- README.md
-
 ## 📊 Model Used
 - Linear Regression
 
