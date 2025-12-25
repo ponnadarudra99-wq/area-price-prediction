@@ -7,7 +7,6 @@ This project predicts property prices based on area using Machine Learning.
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
-- Matplotlib, Seaborn
 - Scikit-learn
 
 ## 📂 Project Files
@@ -25,7 +24,7 @@ This project predicts property prices based on area using Machine Learning.
 
 ## 📈 Output
 - Predicts property cost based on area
-- Visualizes actual vs predicted values
+
 
 ## 👤 Author
 Rudra naga Teja
