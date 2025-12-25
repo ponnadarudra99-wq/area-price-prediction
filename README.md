@@ -14,7 +14,7 @@ This project predicts property prices based on area using Machine Learning.
 
 ## 🚀 How to Run
 1. Open Jupyter Notebook
-2. Run `cost_area_prediction.ipynb`
+2. Run `project.ipynb`
 3. Modify area value to predict new price
 
 ## 📈 Output
